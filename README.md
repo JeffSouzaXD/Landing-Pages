@@ -15,7 +15,7 @@ Projeto Noticias da Cidade: Um site de noticias.
 Projeto Tecblog: Um blog de tecnologias, com as mais diversas noticas e comentarios.
 
 Como Usar
-Clone este repositório: git clone https://github.com/seu-username/projetos-web-simples.git
+Clone este repositório: git clone https://github.com/JeffSouzaXD/HTML-CSS.git
 
 Abra o arquivo HTML do projeto desejado em seu navegador para visualizar ou modifique o código-fonte conforme necessário.
 
