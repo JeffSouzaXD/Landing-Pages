@@ -1,5 +1,5 @@
 Projetos de Páginas Web Simples
-Este repositório contém uma série de projetos simples de páginas web criadas com HTML e CSS puros. Estes projetos servem como exemplos práticos de design e estruturação web, ideais para iniciantes que desejam aprender ou praticar suas habilidades.
+Este repositório contém uma série de projetos simples de páginas web criadas com HTML e CSS puros. Estes projetos servem como exemplos práticos de design e estruturação web.
 
 Projetos Incluídos
 Projeto Clone Netflix: Esse projeto inclui um clone da interface da tela inicial da Netflix.
