@@ -41,6 +41,8 @@ Each project is contained within its own folder within this repository. To view 
 
 2. Open the `index.html` file in your preferred web browser.
 
+3. Explore the page and navigate through different sections to see the content.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Pasta de Landing Pages
@@ -87,6 +89,3 @@ Cada projeto está contido em sua própria pasta dentro deste repositório. Para
 2. Abra o arquivo `index.html` no seu navegador da web preferido.
 
 3. Explore a página e navegue pelas diferentes seções para ver o conteúdo.
-
-
-4. Explore the page and navigate through different sections to see the content.
